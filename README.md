@@ -1,4 +1,4 @@
-# Hi, I'm Saisreenadh! I'm studying CS & Psychology at Stanford.
+# Hi, I'm Saisreenadh! I'm studying CS at Stanford.
 
 ## Ongoing Projects:
  ### - 3D-Brain, a project that processes and displays live EEG data onto a physical life-size brain
