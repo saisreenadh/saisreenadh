@@ -1,1 +1,1 @@
-cs (ai) & psychology @ stanford
+### cs (ai) & psychology @ stanford
