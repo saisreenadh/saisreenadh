@@ -1,1 +1,1 @@
-
+cs (ai) & psychology @ stanford
